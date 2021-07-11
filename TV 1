@@ -4,7 +4,7 @@
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/globorj_bc15c774_8bc2c4e6894e6059d6b5705d3bd1638bf97ae16a/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjEyOSI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAxODcxNzt9
 
 #EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sbt-1-150x150.png" group-title="ABERTO",SBT
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/sbtsp_2a5ac580_279560b42f9466a2182584cb2e8ae7df422f5789/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjU0LjEyMyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAxOTIyOTt9
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/sbtsp_2a5ac580_279560b42f9466a2182584cb2e8ae7df422f5789/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjcwLjU0Ljk5IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDI1NzUzO30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/redetv-150x89.png" group-title="ABERTO",REDE TV
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/redetv_45cbe19f_55007c08ecea4acf88b0c59ceffbd4b36fcbf9f3/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0NyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAxOTUxNjt9
@@ -16,7 +16,7 @@ https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/record_3554dce5_4bae0ff469cd6c
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/band_49e3d046_e4e20f36dbdfaa35accca2cedffdd83e81064f52/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTIuMTQ0IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDE5NzIzO30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/globonews-150x36.png" group-title="NOTÍCIAS",GLOBO NEWS
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/globonews_dc685e2c_8db0d6884c42ddb81058554d836eecf4492ddb98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0NyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAxOTgwMTt9
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/globonews_dc685e2c_8db0d6884c42ddb81058554d836eecf4492ddb98/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0NyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyNTY1ODt9
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/bandnews-150x66.png" group-title="NOTÍCIAS",BAND NEWS
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/bandnews_aee544ce_f3fa3db662a48d8b0ff82186d040ed3ee70a7633/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjU0LjEyMyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyMDAzOTt9
@@ -28,7 +28,7 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/recordnews_620807a1_8276597da9
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/viva_5d00f2c6_f446c2419296db50027253555486d23483191bcd/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0NyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyMDM2NTt9
 
 #EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/cinemax-150x52.png" group-title="JOYCE",CINEMAX HD
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/cinemaxhd_49117359_229f8621403dbe39ca0c9c27c91b738eff065f49/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTYyLjE1OC4xMjIuMTgzIjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDIwNTEyO30%3D
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/cinemaxhd_49117359_229f8621403dbe39ca0c9c27c91b738eff065f49/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjExNSI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyNTg1ODt9
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tnt-150x150.png" group-title="JOYCE",TNT
 https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/tnt_9109c85a_57a294c439eb7cc11156280c403039a965f0ad23/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjEyOSI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyMDY2Nzt9
@@ -49,10 +49,10 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/boomerang_2659fc51_768a5afe8e
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbopop_ce09b127_c9a37b76b6228a0715bd0cb66b7b915f01cdff4d/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTAuMjA1IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDIxNDc1O30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO MUNDI" tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbomundib-150x102.png" group-title="CANAIS HBO",HBO MUNDI
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbomundi_9f682df2_022d2cccf51a1f2fd3cf901e15272be9aa941203/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjUxLjE0NyI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyMTYwMDt9
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbomundi_9f682df2_022d2cccf51a1f2fd3cf901e15272be9aa941203/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjcwLjU0Ljc5IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDI1OTk0O30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo-150x62.png" group-title="CANAIS HBO",HBO
-https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hbo_63266754_91da1533332606eb3a7cf8d4cb9196e2ad02885f/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTAuMjM1IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDIxNzU5O30%3D
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbo_63266754_91da1533332606eb3a7cf8d4cb9196e2ad02885f/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTAuMjM1IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDI2MDU5O30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbosignature-150x86.png" group-title="CANAIS HBO",HBO SIGNATURE
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/hbosignature_fa1a6512_4e61e07908d49f610f0a84adf4673556221e7bf6/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTYyLjE1OC4xMjIuMTgzIjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDIzNTYzO30%3D
@@ -67,10 +67,19 @@ https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/hbofamily_536fb693_cb37ac6d82
 https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepremium_a929eb33_ae3f0f2f5da0d8dcac4b3ebdc661a4d135c53a6b/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTAuMTkxIjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDIzOTU1O30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcpipocahd-150x36.png" group-title="CANAIS TELECINE",TELECINE PIPOCA HD
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipocahd_ae7329c9_65756a630275fae0eb26f2fc9e3b5ac87eb603cf/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjExNSI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyNDI3Mjt9
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/telecinepipocahd_ae7329c9_65756a630275fae0eb26f2fc9e3b5ac87eb603cf/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTIuMjAyIjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDI2MTUzO30%3D
 
 #EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/tcfun-150x117.png" group-title="CANAIS TELECINE",TELECINE FUN
 https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/telecinefun_ae1e7198_d5a9ed935cc1e0576db86e18673c05e03b1c6813/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjEwOSI7aToxO3M6Nzg6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2Ojg5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvODkuMCI7aToyO2k6MTYyNjAyNTE0OTt9
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv-150x28.png" group-title="ESPORTE",SPORTV
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv_91dfde1d_ebe9a27d7494d6766733e402551697f09c73b260/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTYyLjE1OC4xMjIuODEiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg5LjAiO2k6MjtpOjE2MjYwMjYyMTE7fQ%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV2 HD" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv2-150x27.png" group-title="ESPORTE",SPORTV2 HD
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/sportv2_22ab0e43_8357bd31e7d621e127c2d6495341a8a0d782d7d0/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjcwLjU0Ljk5IjtpOjE7czo3ODoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6ODkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC84OS4wIjtpOjI7aToxNjI2MDI2MzU3O30%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV3" tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/sportv3-150x27.png" group-title="ESPORTE",SPORTV3
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/sportv3_e1a864f0_f9ece17cb33a0a83b207e7359ec78babf08323e6/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiMTYyLjE1OC4xMjIuODEiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4OS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg5LjAiO2k6MjtpOjE2MjYwMjY0NTE7fQ%3D%3D
 
 
 
